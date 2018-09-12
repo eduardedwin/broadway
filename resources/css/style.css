@@ -32,3 +32,13 @@ h3 {
 p {
   font-size: 14px;
 }
+
+footer {
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+  text-align:left;
+}
