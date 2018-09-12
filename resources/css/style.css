@@ -4,5 +4,16 @@ body {
 }
 
 h1 {
-  
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.link-nav {
+  font-size: 18px;
+  color: white;
 }
