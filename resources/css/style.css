@@ -9,6 +9,16 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .header {
   background-image: url("../images/the-flatiron-building.png");
 }
@@ -16,4 +26,8 @@ h1 {
 .link-nav {
   font-size: 18px;
   color: white;
+}
+
+.main-process p {
+  font-size: 14px;
 }
